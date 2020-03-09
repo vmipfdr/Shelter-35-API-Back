@@ -1,0 +1,23 @@
+{
+  "name": "Shelter-35-API-Back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmipfdr/Shelter-35-API-Back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmipfdr/Shelter-35-API-Back/issues"
+  },
+  "homepage": "https://github.com/vmipfdr/Shelter-35-API-Back#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
