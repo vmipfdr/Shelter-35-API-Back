@@ -1,0 +1,4 @@
+1. Description of Project: The idea of our project is a basic version of reddit but for Cat Shelters.  It just so happens that we are contributing to Shelter 35.  The idea of the collaborative blog site is that we can collectively complain or praise the Cat Shelter, but anonymously.  We can create content, read content and are determining if we want to give people the option of updating or deleting content.   Our Bronze version will issue a random cat image as an avatar to each user.
+2. Models:  See "./Models/"
+3. Git workflow: Centralized workflow
+4. See this folder
