@@ -19,3 +19,8 @@ We built a basic backend that allows us to maintain user generated posts in mult
 
 - We used a centralized git workflow to manage the backend? Matt managed the git repo, merging, etc of this build.
 - We learned heavily from the front end repo, so that prevented a bunch of pain on the back end repo management.
+
+# The Deployed Collections
+
+- https://shelter35.herokuapp.com/posts
+- https://shelter35.herokuapp.com/blogs
